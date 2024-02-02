@@ -36,7 +36,7 @@ Refers to the location where one’s code is stored.
 ## ***Repository***
 + The location where one stores their code, files, and each file’s history.
 
-Reference List
+## Reference List
 https://www.w3schools.com/git/git_branch.asp?remote=github
 https://www.gitkraken.com/learn/git/git-checkout#:~:text=In%20Git%2C%20a%20branch%20is,a%20specific%20point%20in%20time.
 https://github.com/git-guides/git-clone
