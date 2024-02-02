@@ -45,7 +45,16 @@ Refers to the location where one’s code is stored.
 ## ***Repository***
 + The location where one stores their code, files, and each file’s history.
 
-## Reference List
+## Reference List for Tutorial
+https://docs.github.com/en/get-started/getting-started-with-git/set-up-git
+https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Create-Git-Repo-Repository-Init-New-Clone-Example-Tutorial 
+https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop
+https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/setting-up-github-desktop  
+https://code.visualstudio.com/docs/sourcecontrol/github 
+https://itsfoss.com/vs-code-github/ 
+
+## Reference List for Glossary
 https://www.w3schools.com/git/git_branch.asp?remote=github
 https://www.gitkraken.com/learn/git/git-checkout#:~:text=In%20Git%2C%20a%20branch%20is,a%20specific%20point%20in%20time.
 https://github.com/git-guides/git-clone
