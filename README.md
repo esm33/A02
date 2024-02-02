@@ -1,35 +1,50 @@
 # A02
-## ***Branch***
+
+| Platform | Steps |
+| --- | --- |
+| Git: Set up & Configure |
+1. Install Git by downloading it from the official Git website. Create a GitHub account by navigating to https://github.com and signing up.
+1. Configure Git by opening a terminal or command prompt. Set up your Git username by using the “git config” command: git config --global user.name "name"  git config --global user.email “youremail@email.com"
+1. Initialize a new Git repositorythrough the terminal by navigating to the directory where you want it created and entering the git init command
+1. Create branches (to make copies of the commit history) by entering either commands: git branch NewBranchName (which creates a new branch but keeps the previous one active) or git checkout -b NewBranchName (which creates a branch using -b, but switches to it simultaneously). Note: the command git branch reveals a list of existing local branches including your current branch.
+1. Add files to the staging area by adding all of the files in the directory using “git add .”  or specific files using “git add fileName.” Commit the added files with a commit message using “git commit -m “Commit Message” To push your changes, run the “git push origin NameOfTargetedBranch” command. 
+1. The browser version of GitHub will ask if you would like to “Compare & Pull Request.” Select this button to start the pull request process. All of your commit history will be showcased here. You may merge the Pull Request and Confirm Merge once you are ready to combine all your work histories into a single branch. |
+| GitHub: Install, Edit & Commit |  |
+| VS Code: Install, Clone & Create |  |
+
+
+## Glossary/Definitions
+### ***Branch***
 + A new/separate version of the main repository that points to a specific commit.
 
-## ***Clone***
+### ***Clone***
 + A command that is used to create a copy of a specific repository or branch within a repository.
 
-## ***Commit***
+### ***Commit***
 + A command that records changes to one or more files in a branch
 
-## ***Fetch***
+### ***Fetch***
 + A command used to retrieve new work done by other people. This allows a repository to grab all new remote-tracking branches and tags without merging the changes into one’s own branches.
 
-## ***GIT***
+### ***GIT***
 + A version control system used for tracking changes in computer files.
 
-## ***Github***
+### ***Github***
 + A web-based, code hosting platform for version control and collaboration.
 
-## ***Merge***
+### ***Merge***
 + A command that combines changes in a branch with another branch in order to create a new commit.
 
-## ***Merge Conflict***
+### ***Merge Conflict***
 + An event that occurs when one merges branches with competing commits, and requires one to decide what changes will be included in the final merge.
 
-## ***Push***
+### ***Push***
 + A command that uploads all local branch commits to the corresponding remote branch.
 
-## **Pull***
+### **Pull***
 + A command that updates one’s current local branch after interacting with a repository.
 
-## ***Remote***
+### ***Remote***
 + A command that manages the set of remote branches that one is tracking with their local repository.
 Refers to the location where one’s code is stored.
 
