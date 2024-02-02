@@ -1,39 +1,39 @@
 # A02
-##***Branch***
+## ***Branch***
 + A new/separate version of the main repository that points to a specific commit.
 
-##***Clone***
+## ***Clone***
 + A command that is used to create a copy of a specific repository or branch within a repository.
 
-##***Commit***
+## ***Commit***
 + A command that records changes to one or more files in a branch
 
-##***Fetch***
+## ***Fetch***
 + A command used to retrieve new work done by other people. This allows a repository to grab all new remote-tracking branches and tags without merging the changes into one’s own branches.
 
-##***GIT***
+## ***GIT***
 + A version control system used for tracking changes in computer files.
 
-##***Github***
+## ***Github***
 + A web-based, code hosting platform for version control and collaboration.
 
-##***Merge***
+## ***Merge***
 + A command that combines changes in a branch with another branch in order to create a new commit.
 
-##***Merge Conflict***
+## ***Merge Conflict***
 + An event that occurs when one merges branches with competing commits, and requires one to decide what changes will be included in the final merge.
 
-##***Push***
+## ***Push***
 + A command that uploads all local branch commits to the corresponding remote branch.
 
-##**Pull***
+## **Pull***
 + A command that updates one’s current local branch after interacting with a repository.
 
-##***Remote***
+## ***Remote***
 + A command that manages the set of remote branches that one is tracking with their local repository.
 Refers to the location where one’s code is stored.
 
-##***Repository***
+## ***Repository***
 + The location where one stores their code, files, and each file’s history.
 
 Reference List
