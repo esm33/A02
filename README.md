@@ -42,7 +42,7 @@
 + A command that manages the set of remote branches that one is tracking with their local repository.
 Refers to the location where one’s code is stored.
 
-## ***Repository***
+### ***Repository***
 + The location where one stores their code, files, and each file’s history.
 
 ## Reference List for Tutorial
